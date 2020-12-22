@@ -1,0 +1,10 @@
+*.log
+./bin
+./include
+./share
+./lib
+./lib64
+./__pycache__
+*.swp
+*.cfg
+*.log
